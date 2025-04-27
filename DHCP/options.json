@@ -1,0 +1,20 @@
+[
+  {
+    "code": "1",
+    "name": "Subnet Mask",
+    "createdAt": "2025-04-27T00:00:00Z",
+    "updatedAt": "2025-04-27T00:00:00Z"
+  },
+  {
+    "code": "3",
+    "name": "Router",
+    "createdAt": "2025-04-27T00:00:00Z",
+    "updatedAt": "2025-04-27T00:00:00Z"
+  },
+  {
+    "code": "6",
+    "name": "Domain Name Server",
+    "createdAt": "2025-04-27T00:00:00Z",
+    "updatedAt": "2025-04-27T00:00:00Z"
+  }
+]
