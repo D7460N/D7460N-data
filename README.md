@@ -17,4 +17,4 @@ This repository serves as the flexible, centralized data backend for all D7460N 
 
 ## License
 
-MIT License (or your preferred open license).
+MIT License
