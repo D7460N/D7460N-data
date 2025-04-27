@@ -1,0 +1,12 @@
+[
+  {
+    "name": "DHCP",
+    "path": "DHCP/options.json",
+    "label": "DHCP Option Types"
+  },
+  {
+    "name": "ID",
+    "path": "ID/students.json",
+    "label": "International Dance Students"
+  }
+]
